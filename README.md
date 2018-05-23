@@ -17,4 +17,4 @@ The syntax for the above operators is like:
   8. mod: x1 % x2
   9. factorial: x1!
 
-where x1 and x2 some expressions.
+where x1 and x2 are some expressions.
